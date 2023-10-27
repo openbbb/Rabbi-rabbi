@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "78b35839-4284-9374-808c-3a52d3f2f148",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "CritterStickersAssets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

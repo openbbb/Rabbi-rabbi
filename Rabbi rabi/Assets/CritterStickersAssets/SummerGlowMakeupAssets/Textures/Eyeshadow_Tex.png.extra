@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "ba0e1b41-b1d4-7482-592d-74072cc35d82",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Eyeshadow_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "26717c3e-363c-1740-73ef-16b56f53ef6b",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "BunnyEars_TexSequence",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

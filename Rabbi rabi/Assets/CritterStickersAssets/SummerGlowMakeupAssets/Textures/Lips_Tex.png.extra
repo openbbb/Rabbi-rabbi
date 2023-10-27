@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "4b32f278-0513-b516-77d6-f6f514662fb3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Lips_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

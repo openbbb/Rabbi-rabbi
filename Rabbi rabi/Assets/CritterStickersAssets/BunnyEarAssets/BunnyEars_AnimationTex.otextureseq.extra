@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "848c5a02-7e97-9c8e-5976-2954ae742d3b",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "BunnyEars_AnimationTex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "TextureSequence",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "premultiplyAlpha": true
+  }
+]

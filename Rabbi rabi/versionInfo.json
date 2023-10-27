@@ -1,0 +1,18 @@
+{
+  "version": "3.4.0",
+  "handlers": {
+    "ComponentsCompatibilityHandler": {
+      "Transform": "85bfce2f4ffa628888c59a61f15d5b51",
+      "EffectNode": "d751713988987e9331980363e24189ce",
+      "Camera": "cd9b9dda9fec962a33e3dd34bc6788cc",
+      "FaceCapture": "85bd24afd012b51072e17e97395efeae",
+      "Image": "0260eb80a2989dfcd62c69b940dccc04",
+      "LookAt": "a2df1b9016fede1f836d16c9f9b6fdca",
+      "MeshRenderer": "0ed8ea86d5371c8bbe2ea5908543a838",
+      "FaceMaskTT": "8630013f4e91406201bad39959a00c85",
+      "EyeColorV2": "2134a3cf957535d24a280dca397bc6ba",
+      "FaceShapeV2": "8f0dbdb87e942a1525134ae7261045c9",
+      "EnvironmentLighting": "3174ed5b249dee36048cc3acff47d1e7"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "1cbcb023-2d8c-4a60-ffd3-9f63ae9e2ae3",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "TextureSequenceAssets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

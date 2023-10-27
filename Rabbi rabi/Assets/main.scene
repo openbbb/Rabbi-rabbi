@@ -1,0 +1,1167 @@
+%YAML 1.1
+--- !Scene &1
+name: ""
+guid: {a: 7875085725817850609, b: 329766013828765107}
+editSceneGuid: {a: 0, b: 0}
+calibrateVer: V5
+entities:
+  - __class: Entity
+    name: "Tip: To modify Critter Stickers"
+    guid: {a: 3192113635775960687, b: 14628028188639900821}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 2}
+      - __class: EffectNode
+        name: ""
+        guid: {a: 2184048311581662649, b: 3873670953692955050}
+        enabled: true
+        outputTextures:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000009}
+        renderOrder: 8001
+        minorOrder: 0
+        type:
+          __class: EffectNodeTag
+          value: Other
+        version: 2
+        rendererType:
+          __class: RendererType
+          value: OpenGLES30
+    layer: 0
+  - __class: Entity
+    name: Summer Glow Makeup Effects
+    guid: {a: 18323593509030859284, b: 5363002547318192525}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 7}
+      - __class: EffectNode
+        name: ""
+        guid: {a: 14792006809247341526, b: 523411728807721351}
+        enabled: true
+        outputTextures:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000009}
+        renderOrder: 8002
+        minorOrder: 0
+        type:
+          __class: EffectNodeTag
+          value: FaceMakeup
+        version: 2
+        rendererType:
+          __class: RendererType
+          value: OpenGLES30
+    layer: 0
+  - __class: Entity
+    name: Makeup Camera
+    guid: {a: 15513375248796876733, b: 11083989895366701474}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 8}
+      - __class: Camera
+        name: ""
+        guid: {a: 15078707151939512195, b: 16761077985071683974}
+        enabled: true
+        layerVisibleMask: {__class: DynamicBitset, numBits: 64, values: [1, 0]}
+        renderOrder: 0
+        type:
+          __class: CameraType
+          value: PERSPECTIVE
+        clearColor: {r: 0, g: 0, b: 0, a: 1}
+        clearType:
+          __class: CameraClearType
+          value: DEPTH
+        alwaysClear: true
+        viewport: {x: 0, y: 0, w: 1, h: 1}
+        fovy: 60
+        orthoScale: 1
+        zNear: 0.1000000014901161
+        zFar: 1000
+        renderTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000009}
+        isRootCamera: false
+    layer: 0
+  - __class: Entity
+    name: Summer Glow Makeup
+    guid: {a: 15154246781161735080, b: 12632324363724886674}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 9}
+    layer: 0
+  - __class: Entity
+    name: "Example 1: Static Accessory"
+    guid: {a: 15873746574515464334, b: 15156820399668363912}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 15}
+      - __class: FaceCapture
+        name: ""
+        guid: {a: 11910433225205748194, b: 5013638285795742629}
+        enabled: true
+        faceid: 0
+        captureType:
+          __class: CaptureType
+          value: CAT
+        captureVersion:
+          __class: CaptureVersion
+          value: SOLVEPNP
+        alignoffset: {x: 0, y: 0}
+        alignz: 5
+        isGlobal: true
+        useSceneCameraFov: false
+        isPictureMode: false
+        isFaceCaptureEnable: true
+        calirateVersion:
+          __class: CalibrationType
+          value: V5
+        nearPlane: 0.1000000014901161
+        farPlane: 10000
+        useSceneCameraNearFar: false
+        behaviorWhenTrackerDisappear:
+          __class: BehaviorWhenTrackerDisappear
+          value: ALIGN_VISIBILITY_WITH_TRACKER
+        entityRotateType:
+          __class: EntityRotateType
+          value: ROTATE_AROUND_XYZ_AXIS
+    layer: 0
+  - __class: Entity
+    name: Critter Sticker Effect
+    guid: {a: 16089697475947193463, b: 16834295818188635574}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 16}
+      - __class: EffectNode
+        name: ""
+        guid: {a: 11118976101025382697, b: 13578402520813824432}
+        enabled: true
+        outputTextures:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000009}
+        renderOrder: 8003
+        minorOrder: 0
+        type:
+          __class: EffectNodeTag
+          value: Other
+        version: 2
+        rendererType:
+          __class: RendererType
+          value: OpenGLES30
+    layer: 0
+  - __class: Entity
+    name: "Example 2: Animated Accessory [TRY ME]"
+    guid: {a: 15368520084512218044, b: 6404923512953436340}
+    scene: {localId: 1}
+    selfvisible: false
+    components:
+      - {localId: 19}
+      - __class: FaceCapture
+        name: ""
+        guid: {a: 16951720981473183667, b: 488829519310887591}
+        enabled: true
+        faceid: 0
+        captureType:
+          __class: CaptureType
+          value: HUMAN
+        captureVersion:
+          __class: CaptureVersion
+          value: SOLVEPNP
+        alignoffset: {x: 0, y: 0}
+        alignz: 5
+        isGlobal: true
+        useSceneCameraFov: false
+        isPictureMode: false
+        isFaceCaptureEnable: true
+        calirateVersion:
+          __class: CalibrationType
+          value: V5
+        nearPlane: 0.1000000014901161
+        farPlane: 10000
+        useSceneCameraNearFar: false
+        behaviorWhenTrackerDisappear:
+          __class: BehaviorWhenTrackerDisappear
+          value: ALIGN_VISIBILITY_WITH_TRACKER
+        entityRotateType:
+          __class: EntityRotateType
+          value: ROTATE_AROUND_XYZ_AXIS
+    layer: 0
+  - __class: Entity
+    name: Critter Sticker Camera
+    guid: {a: 1677678860213976972, b: 1257393983719147682}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 17}
+      - __class: Camera
+        name: ""
+        guid: {a: 9603941085394786174, b: 18313687378269432738}
+        enabled: true
+        layerVisibleMask: {__class: DynamicBitset, numBits: 64, values: [1, 0]}
+        renderOrder: 3
+        type:
+          __class: CameraType
+          value: PERSPECTIVE
+        clearColor: {r: 0, g: 0, b: 0, a: 1}
+        clearType:
+          __class: CameraClearType
+          value: DEPTH
+        alwaysClear: true
+        viewport: {x: 0, y: 0, w: 1, h: 1}
+        fovy: 60
+        orthoScale: 1
+        zNear: 0.1000000014901161
+        zFar: 1000
+        renderTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000009}
+        isRootCamera: false
+    layer: 0
+  - __class: Entity
+    name: "TIP: TRY EACH OF BELOW EXAMPLES"
+    guid: {a: 12124410497354674828, b: 8719458651112609409}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 18}
+    layer: 0
+  - __class: Entity
+    name: Left Cheek Blush Sticker [REPLACE ME]
+    guid: {a: 15944715286130498448, b: 3112062058893505693}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 25}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 13928021351238049012, b: 15673023834991713464}
+        enabled: true
+        sharedMaterials:
+          - {localId: 0}
+        sortingOrder: 6
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: a9909ae6-72fb-a88c-10de-06cd128068b4--a9909ae6-72fb-a88c-10de-06cd128068b4.png}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 3, y: 3}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+          _ellipseX: 1
+          _ellipseY: 1
+          _filledRange: 1
+          _filledType: 0
+          _startPoint: 0
+      - __class: LookAt
+        name: ""
+        guid: {a: 5495882806653303327, b: 14457234558849714599}
+        enabled: false
+        target: {localId: 17}
+        mode:
+          __class: LookAtMode
+          value: LOOK_AT_DIRECTION
+        worldUp:
+          __class: LookAtWorldUp
+          value: OBJECT_Y
+        aim:
+          __class: LookAtDirection
+          value: Z
+        up:
+          __class: LookAtDirection
+          value: Y
+        offsetRotation: {x: 0, y: 0, z: 0}
+        flipAimUp: true
+    layer: 0
+  - __class: Entity
+    name: Right Cheek Blush Sticker [REPLACE ME]
+    guid: {a: 14719531156521071001, b: 13638363564106855585}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 26}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 4631189394625875090, b: 12751590473648749734}
+        enabled: true
+        sharedMaterials:
+          - {localId: 0}
+        sortingOrder: 7
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: a9909ae6-72fb-a88c-10de-06cd128068b4--a9909ae6-72fb-a88c-10de-06cd128068b4.png}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 3, y: 3}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+          _ellipseX: 1
+          _ellipseY: 1
+          _filledRange: 1
+          _filledType: 0
+          _startPoint: 0
+      - __class: LookAt
+        name: ""
+        guid: {a: 14574712822630299137, b: 11231284264078802314}
+        enabled: false
+        target: {localId: 17}
+        mode:
+          __class: LookAtMode
+          value: LOOK_AT_DIRECTION
+        worldUp:
+          __class: LookAtWorldUp
+          value: OBJECT_Y
+        aim:
+          __class: LookAtDirection
+          value: Z
+        up:
+          __class: LookAtDirection
+          value: Y
+        offsetRotation: {x: 0, y: 0, z: 0}
+        flipAimUp: true
+    layer: 0
+  - __class: Entity
+    name: Bunny Hat Sticker [REPLACE ME]
+    guid: {a: 17027345979323549449, b: 7302723360969449106}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 24}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 4345185152277318918, b: 16897762363520277162}
+        enabled: true
+        sharedMaterials:
+          - {localId: 0}
+        sortingOrder: 5
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: e5a3a3b7-2794-2440-4246-407ce3def127--e5a3a3b7-2794-2440-4246-407ce3def127.png}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 22, y: 22}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+          _ellipseX: 1
+          _ellipseY: 1
+          _filledRange: 1
+          _filledType: 0
+          _startPoint: 0
+      - __class: LookAt
+        name: ""
+        guid: {a: 17820583986075264651, b: 8198925879073383590}
+        enabled: false
+        target: {localId: 17}
+        mode:
+          __class: LookAtMode
+          value: LOOK_AT_DIRECTION
+        worldUp:
+          __class: LookAtWorldUp
+          value: OBJECT_Y
+        aim:
+          __class: LookAtDirection
+          value: Z
+        up:
+          __class: LookAtDirection
+          value: Y
+        offsetRotation: {x: 0, y: 0, z: 0}
+        flipAimUp: true
+    layer: 0
+  - __class: Entity
+    name: Animated Bunny Ear Sticker [REPLACE ME]
+    guid: {a: 6503972318117133883, b: 5058044264175478462}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 20}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 9961973462060988902, b: 7245904007266106293}
+        enabled: true
+        sharedMaterials:
+          - {localId: 0}
+        sortingOrder: 8
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: custom://409c1301-c3c8-53c6-e555-82c8a14ed066}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 23, y: 23}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+          _ellipseX: 1
+          _ellipseY: 1
+          _filledRange: 1
+          _filledType: 0
+          _startPoint: 0
+      - __class: LookAt
+        name: ""
+        guid: {a: 7587006994132123045, b: 9019257143054935978}
+        enabled: false
+        target: {localId: 17}
+        mode:
+          __class: LookAtMode
+          value: LOOK_AT_DIRECTION
+        worldUp:
+          __class: LookAtWorldUp
+          value: OBJECT_Y
+        aim:
+          __class: LookAtDirection
+          value: Z
+        up:
+          __class: LookAtDirection
+          value: Y
+        offsetRotation: {x: 0, y: 0, z: 0}
+        flipAimUp: true
+    layer: 0
+  - __class: Entity
+    name: Left Cheek Animated Blush Sticker [REPLACE ME]
+    guid: {a: 2324133525321084309, b: 15496535843599463580}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 21}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 9605261519815693081, b: 696280704927924153}
+        enabled: true
+        sharedMaterials:
+          - {localId: 0}
+        sortingOrder: 9
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: custom://c0fd4ba7-2b60-31eb-69de-5ffd49396a16}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 2.7, y: 2.7}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+          _ellipseX: 1
+          _ellipseY: 1
+          _filledRange: 1
+          _filledType: 0
+          _startPoint: 0
+      - __class: LookAt
+        name: ""
+        guid: {a: 4773895800046023434, b: 3692874719764244130}
+        enabled: false
+        target: {localId: 17}
+        mode:
+          __class: LookAtMode
+          value: LOOK_AT_DIRECTION
+        worldUp:
+          __class: LookAtWorldUp
+          value: OBJECT_Y
+        aim:
+          __class: LookAtDirection
+          value: Z
+        up:
+          __class: LookAtDirection
+          value: Y
+        offsetRotation: {x: 0, y: 0, z: 0}
+        flipAimUp: true
+    layer: 0
+  - __class: Entity
+    name: Right Cheek Animated Blush Sticker [REPLACE ME]
+    guid: {a: 10325354530925241030, b: 17805691976118992552}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 22}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 670751114906963273, b: 14961110051022537655}
+        enabled: true
+        sharedMaterials:
+          - {localId: 0}
+        sortingOrder: 10
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: custom://c0fd4ba7-2b60-31eb-69de-5ffd49396a16}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 2.7, y: 2.7}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+          _ellipseX: 1
+          _ellipseY: 1
+          _filledRange: 1
+          _filledType: 0
+          _startPoint: 0
+      - __class: LookAt
+        name: ""
+        guid: {a: 6002604726436373875, b: 14387915988813277621}
+        enabled: true
+        target: {localId: 17}
+        mode:
+          __class: LookAtMode
+          value: LOOK_AT_DIRECTION
+        worldUp:
+          __class: LookAtWorldUp
+          value: OBJECT_Y
+        aim:
+          __class: LookAtDirection
+          value: Z
+        up:
+          __class: LookAtDirection
+          value: Y
+        offsetRotation: {x: 0, y: 0, z: 0}
+        flipAimUp: true
+    layer: 0
+  - __class: Entity
+    name: Face Mask
+    guid: {a: 2181074995442454512, b: 13754935422106916240}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 11}
+      - __class: MeshRenderer
+        name: ""
+        guid: {a: 18034952018619101689, b: 4358874472880889990}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000138--00000000-0000-0000-0000-000000000138.material}
+        sortingOrder: 1
+        autoSortingOrder: true
+        useFrustumCulling: false
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 00000000-0000-0000-0000-0000000000e6}
+        castShadow: false
+      - __class: EffectFaceMakeupFaceU
+        name: ""
+        guid: {a: 956368602468772805, b: 2407812261099791282}
+        enabled: true
+        type:
+          __class: EffectFaceMakeupType
+          value: FACEU_MASK
+        templateMesh: {localId: 0}
+        templateMaterials:
+          - {localId: 0}
+        dynamicRenderChain: false
+        faceIds: [0, 1, 2, 3, 4]
+        facemakeupEntityName: Face Mask
+        zPosition: 0
+        triggerLua: true
+        version: 1
+        sdkType: 2
+        useVideoTexture: false
+        useSegment: false
+        skipZeroOpacity: false
+        componentVersion: 3
+        maleOpacity: 1
+        femaleOpacity: 1
+        xoffset: 1
+        yoffset: 1
+    layer: 0
+  - __class: Entity
+    name: EyeShadow
+    guid: {a: 885104783672643299, b: 6534870083599171512}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 12}
+      - __class: MeshRenderer
+        name: ""
+        guid: {a: 2757138653055293706, b: 5085108762606806191}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000126--00000000-0000-0000-0000-000000000126.material}
+        sortingOrder: 2
+        autoSortingOrder: true
+        useFrustumCulling: false
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 00000000-0000-0000-0000-0000000000e7}
+        castShadow: false
+      - __class: EffectFaceMakeupFaceU
+        name: ""
+        guid: {a: 13712255453288833990, b: 16758718698947646911}
+        enabled: true
+        type:
+          __class: EffectFaceMakeupType
+          value: FACEU_EYEPART
+        templateMesh: {localId: 0}
+        templateMaterials:
+          - {localId: 0}
+        dynamicRenderChain: false
+        faceIds: [0, 1, 2, 3, 4]
+        facemakeupEntityName: EyeShadow
+        zPosition: 0
+        triggerLua: true
+        version: 1
+        sdkType: 2
+        useVideoTexture: false
+        useSegment: false
+        skipZeroOpacity: false
+        componentVersion: 3
+        maleOpacity: 1
+        femaleOpacity: 1
+        xoffset: 1
+        yoffset: 1
+    layer: 0
+  - __class: Entity
+    name: Eye Color
+    guid: {a: 5713711704934795751, b: 4935332773222978745}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 13}
+      - __class: MeshRenderer
+        name: ""
+        guid: {a: 12846399727297989542, b: 8117650844975222688}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 00000000-0000-0000-0000-0000000000a9--00000000-0000-0000-0000-0000000000a9.material}
+        sortingOrder: 3
+        autoSortingOrder: true
+        useFrustumCulling: false
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 00000000-0000-0000-0000-000000000060}
+        castShadow: false
+      - __class: JSScriptComponent
+        name: ""
+        guid: {a: 2829630374961128853, b: 16162343807650845341}
+        enabled: true
+        path: js/EyeColorController.js
+        properties:
+          __class: Map
+          blendMode: 0
+          color: {r: 0.463, g: 0.604, b: 0.31, a: 1}
+          eyeMaterialPath: material/5541332426148146261-16593479887932286614.material
+          eyeMeshPath: model/04d29697-1a99-4b2d-b463-e6672e7703f1_0.mesh
+          eyeTexture: {localId: 1, path: e6a549c5-116c-cc5f-8502-bf47ff402be4--e6a549c5-116c-cc5f-8502-bf47ff402be4.png}
+          faceIds: [0, 1, 2, 3, 4]
+          intensity: 0.8
+          maskMaterialPath: material/5329448605115222989-1339688069361382291.material
+          maskType: 0
+          opacityTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000064--00000000-0000-0000-0000-000000000064.png}
+          opacityTextureEnable: false
+          pupilMeshPath: model/04d29697-1a99-4b2d-b463-e6672e7703f1_1.mesh
+          reflectBlendMode: 3
+          reflectEnable: true
+          reflectIntensity: 0.8
+          reflectTexture: {localId: 1, path: eef3a590-54e4-0854-8bd9-fa59a9506e59--eef3a590-54e4-0854-8bd9-fa59a9506e59.png}
+          useSegment: false
+    layer: 0
+  - __class: Entity
+    name: Lip Effect
+    guid: {a: 1967732984354452261, b: 16868588363617870999}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 14}
+      - __class: MeshRenderer
+        name: ""
+        guid: {a: 15006977403139320711, b: 9169075130176644011}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000127--00000000-0000-0000-0000-000000000127.material}
+        sortingOrder: 4
+        autoSortingOrder: true
+        useFrustumCulling: false
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 00000000-0000-0000-0000-0000000000e9}
+        castShadow: false
+      - __class: EffectFaceMakeupFaceU
+        name: ""
+        guid: {a: 6938465020901439305, b: 7605261565436499106}
+        enabled: true
+        type:
+          __class: EffectFaceMakeupType
+          value: FACEU_LIPS_KEYPOINT
+        templateMesh: {localId: 0}
+        templateMaterials:
+          - {localId: 0}
+        dynamicRenderChain: false
+        faceIds: [0, 1, 2, 3, 4]
+        facemakeupEntityName: Lip Effect
+        zPosition: 0
+        triggerLua: true
+        version: 1
+        sdkType: 2
+        useVideoTexture: false
+        useSegment: true
+        skipZeroOpacity: false
+        componentVersion: 3
+        maleOpacity: 1
+        femaleOpacity: 1
+        xoffset: 1
+        yoffset: 1
+    layer: 0
+  - __class: Entity
+    name: 3D Face
+    guid: {a: 18105965583155728760, b: 12764684610915064737}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 10}
+      - __class: MeshRenderer
+        name: ""
+        guid: {a: 3550764793802417516, b: 3910147791479771324}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 356f3fa0-8b94-31d6-4e85-651067546883--356f3fa0-8b94-31d6-4e85-651067546883.material}
+        sortingOrder: 0
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: custom://f00091a9-f6ef-e700-fbb2-895e6915ea41}
+        castShadow: false
+      - __class: JSScriptComponent
+        name: ""
+        guid: {a: 3841085312083971875, b: 2927316845914060172}
+        enabled: true
+        path: js/FaceShapeV2.js
+        properties:
+          __class: Map
+          algoGraphName: AlSubGraph_Fri27Oct2023155556GMT493nmcd
+          faceIdx: 0
+          graphName: AlSubGraph_Fri27Oct2023155556GMT493nmcd
+    layer: 0
+  - __class: Entity
+    name: "1. Enable \"Example 1: Static Accessory\" to try"
+    guid: {a: 5206452960492068604, b: 11775341658603079575}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 3}
+    layer: 0
+  - __class: Entity
+    name: 3. Import customize texture or sequence to Assets
+    guid: {a: 4558564656439174670, b: 11762271648837264278}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 5}
+    layer: 0
+  - __class: Entity
+    name: "2. Enable \"Example 2: Animate Accessory\" to try"
+    guid: {a: 884336534955025775, b: 15517842463216161965}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 4}
+    layer: 0
+  - __class: Entity
+    name: 4. Apply the texture to any sticker's Image component
+    guid: {a: 4488168829505204477, b: 12593920704072622258}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 6}
+    layer: 0
+  - __class: Entity
+    name: Environment Light
+    guid: {a: 4960207134287200745, b: 850037878289573265}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 23}
+      - __class: Envmap
+        name: ""
+        guid: {a: 5313870509979670994, b: 2859848627898891650}
+        enabled: true
+        envmapLayers: {__class: DynamicBitset, numBits: 64, values: [1, 0]}
+        specularEnvmap: {localId: 1, path: 00000000-0000-0000-0000-000000000800--00000000-0000-0000-0000-000000000800.texture}
+        IBLMode: true
+        intensity: 1
+        rotation: 0
+    layer: 0
+visible: true
+config:
+  __class: Map
+msaa:
+  __class: MSAAMode
+  value: _4X
+jsScriptSystems:
+  - js/GraphSystem.js
+  - js/Main.js
+  - js/JSAssetSystem.js
+  - js/FaceMaskTTControllerSystem.js
+enableMultiTouch: false
+enableLightMultiPass: false
+pixelLightCount: 4
+resourceRendererType:
+  __class: RendererType
+  value: "Null"
+--- !Transform &2
+name: ""
+guid: {a: 10326334455718566793, b: 2071742083967221689}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+children:
+  - {localId: 3}
+  - {localId: 4}
+  - {localId: 5}
+  - {localId: 6}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &3
+name: ""
+guid: {a: 6865473046097322276, b: 8539243546808371346}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 2}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &4
+name: ""
+guid: {a: 9605050148766735803, b: 14391025371517007019}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 2}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &5
+name: ""
+guid: {a: 15511886462595068702, b: 4563246582241914804}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 2}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &6
+name: ""
+guid: {a: 17170179707428068755, b: 16082976422860557189}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 2}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &7
+name: ""
+guid: {a: 12558885216818825847, b: 2613669061908703363}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+children:
+  - {localId: 8}
+  - {localId: 9}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &8
+name: ""
+guid: {a: 7298346053752055709, b: 13241581830627340721}
+enabled: true
+localPosition: {x: 0, y: 0, z: 40}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 7}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &9
+name: ""
+guid: {a: 6359100206691981897, b: 17539573987839038616}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 7}
+children:
+  - {localId: 10}
+  - {localId: 11}
+  - {localId: 12}
+  - {localId: 13}
+  - {localId: 14}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &10
+name: ""
+guid: {a: 12268076794404062484, b: 17400112292487160965}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 9}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &11
+name: ""
+guid: {a: 3549865350657372248, b: 7767808351044475797}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 9}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &12
+name: ""
+guid: {a: 3406407759807133706, b: 1868856029409562807}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 9}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &13
+name: ""
+guid: {a: 18032604784292360518, b: 13444477403361942681}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 9}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &14
+name: ""
+guid: {a: 2687745282310957165, b: 14107123054731051652}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 9}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &15
+name: ""
+guid: {a: 15224131113480986611, b: 13993374330820962178}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 16}
+children:
+  - {localId: 24}
+  - {localId: 25}
+  - {localId: 26}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &16
+name: ""
+guid: {a: 17027698102514298567, b: 5210886920840795303}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+children:
+  - {localId: 17}
+  - {localId: 18}
+  - {localId: 15}
+  - {localId: 19}
+  - {localId: 23}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &17
+name: ""
+guid: {a: 17604070900855348676, b: 8190645535209910178}
+enabled: true
+localPosition: {x: 0, y: 0, z: 40}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 16}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &18
+name: ""
+guid: {a: 5207971825112062017, b: 2061059698031249083}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 16}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &19
+name: ""
+guid: {a: 18178338336587693614, b: 13158917444066267283}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 16}
+children:
+  - {localId: 20}
+  - {localId: 21}
+  - {localId: 22}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &20
+name: ""
+guid: {a: 16449352502683612368, b: 2169271850553241992}
+enabled: true
+localPosition: {x: 0, y: 13.5, z: 2}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 19}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &21
+name: ""
+guid: {a: 7948736802685623291, b: 15098451790736815023}
+enabled: true
+localPosition: {x: -5, y: -2, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 0.9945219, x: 0, y: 0, z: -0.1045285}
+parent: {localId: 19}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &22
+name: ""
+guid: {a: 1389541148963604490, b: 16638301160701374370}
+enabled: true
+localPosition: {x: 5, y: -2, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 0.9945219, x: 0, y: 0, z: 0.1045285}
+parent: {localId: 19}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &23
+name: ""
+guid: {a: 4838735442359401804, b: 10383421921528820382}
+enabled: true
+localPosition: {x: 0, y: 30, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 16}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &24
+name: ""
+guid: {a: 15801918474439401702, b: 3781075978160121488}
+enabled: true
+localPosition: {x: 0, y: 12, z: 2}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 15}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &25
+name: ""
+guid: {a: 16953348111703060953, b: 10703870086012251029}
+enabled: true
+localPosition: {x: -5, y: -2, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 15}
+mobility:
+  __class: Mobility
+  value: Dynamic
+--- !Transform &26
+name: ""
+guid: {a: 1101006171098970034, b: 16320333897453178005}
+enabled: true
+localPosition: {x: 5, y: -2, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 15}
+mobility:
+  __class: Mobility
+  value: Dynamic

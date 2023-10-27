@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "1b18a794-6c0d-0e17-1850-457f465b6cbf",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "SummerGlowMakeupAssets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

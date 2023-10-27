@@ -1,0 +1,1465 @@
+[
+  {
+    "guid": {
+      "a": "5c72a7f5-e973-8237-a9ce-cc561f15b1a1",
+      "b": ""
+    },
+    "objGuid": "Guid(3192113635775960687, 14628028188639900821)",
+    "extraType": "Entity",
+    "name": "Tip: To modify Critter Stickers",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d7597fe7-bb1f-e6c6-18c7-57381eefe317",
+      "b": ""
+    },
+    "objGuid": "Guid(10326334455718566793, 2071742083967221689)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "3b23df59-b0b1-9eaf-d1a3-d2464a55b87d",
+      "b": ""
+    },
+    "objGuid": "Guid(6865473046097322276, 8539243546808371346)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "8222e14f-9e35-8680-d381-2781ddc8c953",
+      "b": ""
+    },
+    "objGuid": "Guid(9605050148766735803, 14391025371517007019)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "3bffc827-dfa0-1b10-70a6-602ace0342c1",
+      "b": ""
+    },
+    "objGuid": "Guid(15511886462595068702, 4563246582241914804)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "d2f4059e-dd42-cf9e-7db5-6633a0f16af1",
+      "b": ""
+    },
+    "objGuid": "Guid(17170179707428068755, 16082976422860557189)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "dfa1a115-a15b-f739-5ae2-e85d57762435",
+      "b": ""
+    },
+    "objGuid": "Guid(2184048311581662649, 3873670953692955050)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5
+  },
+  {
+    "guid": {
+      "a": "4adcd99d-b0e5-878f-d928-73392d60ee9a",
+      "b": ""
+    },
+    "objGuid": "Guid(18323593509030859284, 5363002547318192525)",
+    "extraType": "Entity",
+    "name": "Summer Glow Makeup Effects",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d43b5002-06e6-3bd5-48b0-2fa044981314",
+      "b": ""
+    },
+    "objGuid": "Guid(12558885216818825847, 2613669061908703363)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "c2812da6-7049-3483-18c0-1019ffd068c8",
+      "b": ""
+    },
+    "objGuid": "Guid(7298346053752055709, 13241581830627340721)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "d1a62ee8-e89b-6faf-ea44-8bbf39c99bd9",
+      "b": ""
+    },
+    "objGuid": "Guid(6359100206691981897, 17539573987839038616)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "12f0862c-7e97-7a05-5274-5eb68d9e0d1d",
+      "b": ""
+    },
+    "objGuid": "Guid(12268076794404062484, 17400112292487160965)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "80a37b25-6e4a-5164-2c76-98a1a285a33a",
+      "b": ""
+    },
+    "objGuid": "Guid(3549865350657372248, 7767808351044475797)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "69b17549-cc67-c6e5-f659-d40a709709fa",
+      "b": ""
+    },
+    "objGuid": "Guid(3406407759807133706, 1868856029409562807)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "55c10323-cb7b-f53e-20ca-c9f13996ad57",
+      "b": ""
+    },
+    "objGuid": "Guid(18032604784292360518, 13444477403361942681)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "ac4d077e-eb67-a545-9855-5e0d3f7a6e38",
+      "b": ""
+    },
+    "objGuid": "Guid(2687745282310957165, 14107123054731051652)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "735c5a60-150b-bdc1-112c-df7697281663",
+      "b": ""
+    },
+    "objGuid": "Guid(14792006809247341526, 523411728807721351)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 3
+  },
+  {
+    "guid": {
+      "a": "0d384938-1291-b88f-1a76-5446840dfb06",
+      "b": ""
+    },
+    "objGuid": "Guid(15513375248796876733, 11083989895366701474)",
+    "extraType": "Entity",
+    "name": "Makeup Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_face_mask"
+  },
+  {
+    "guid": {
+      "a": "b2bef520-7ac6-77ac-4827-38223d05616e",
+      "b": ""
+    },
+    "objGuid": "Guid(15078707151939512195, 16761077985071683974)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "eabb025f-a297-76f8-6f07-2c5c456111a6",
+      "b": ""
+    },
+    "objGuid": "Guid(15154246781161735080, 12632324363724886674)",
+    "extraType": "Entity",
+    "name": "Summer Glow Makeup",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "81746166-3960-c55c-c87f-f1708229f4c6",
+      "b": ""
+    },
+    "objGuid": "Guid(15873746574515464334, 15156820399668363912)",
+    "extraType": "Entity",
+    "name": "Example 1: Static Accessory",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "854376f9-aa62-7c5a-b049-13e30c66d455",
+      "b": ""
+    },
+    "objGuid": "Guid(15224131113480986611, 13993374330820962178)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "e708181f-5a9c-a975-0081-7d084d54a97c",
+      "b": ""
+    },
+    "objGuid": "Guid(17027698102514298567, 5210886920840795303)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "00988826-3cb5-93e0-84c7-c5a9d58091d8",
+      "b": ""
+    },
+    "objGuid": "Guid(17604070900855348676, 8190645535209910178)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "3a9a30b4-5c65-a653-f506-ccfcad5e7678",
+      "b": ""
+    },
+    "objGuid": "Guid(5207971825112062017, 2061059698031249083)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "fe947b0e-c098-966b-7e7a-82977ae90b2a",
+      "b": ""
+    },
+    "objGuid": "Guid(18178338336587693614, 13158917444066267283)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "42c6841a-6076-a0af-10c8-ecc3fac24aea",
+      "b": ""
+    },
+    "objGuid": "Guid(16449352502683612368, 2169271850553241992)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "2c0e39b7-3d54-c96c-f926-7fc29e0c94d6",
+      "b": ""
+    },
+    "objGuid": "Guid(7948736802685623291, 15098451790736815023)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      -12
+    ]
+  },
+  {
+    "guid": {
+      "a": "ad83538a-be1f-06bc-af92-ea16277fccd5",
+      "b": ""
+    },
+    "objGuid": "Guid(1389541148963604490, 16638301160701374370)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      12
+    ]
+  },
+  {
+    "guid": {
+      "a": "78aeab46-3bc5-06fb-e53d-857428dc14ba",
+      "b": ""
+    },
+    "objGuid": "Guid(4838735442359401804, 10383421921528820382)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "65dae4ec-0268-d460-c82f-a87df53db03f",
+      "b": ""
+    },
+    "objGuid": "Guid(15801918474439401702, 3781075978160121488)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "ef25a8ee-7572-91bb-05a8-f0cb78670c64",
+      "b": ""
+    },
+    "objGuid": "Guid(16953348111703060953, 10703870086012251029)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "1cbf5a40-eb69-8f9c-4cd3-8bad5ccb8bd6",
+      "b": ""
+    },
+    "objGuid": "Guid(1101006171098970034, 16320333897453178005)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "ad57e3af-e36b-8880-6cee-f67e6c5390fe",
+      "b": ""
+    },
+    "objGuid": "Guid(11910433225205748194, 5013638285795742629)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "999e1c14-becc-291d-53d2-037ef987ff44",
+      "b": ""
+    },
+    "objGuid": "Guid(16089697475947193463, 16834295818188635574)",
+    "extraType": "Entity",
+    "name": "Critter Sticker Effect",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "a017be59-1cae-b041-146f-ae9350d123b2",
+      "b": ""
+    },
+    "objGuid": "Guid(11118976101025382697, 13578402520813824432)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5
+  },
+  {
+    "guid": {
+      "a": "46eaae9c-a954-3413-5b02-fcb57139c42c",
+      "b": ""
+    },
+    "objGuid": "Guid(15368520084512218044, 6404923512953436340)",
+    "extraType": "Entity",
+    "name": "Example 2: Animated Accessory [TRY ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "53f47359-2e74-a5db-d3ed-fd813950675b",
+      "b": ""
+    },
+    "objGuid": "Guid(16951720981473183667, 488829519310887591)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "5581d168-0277-da36-170b-2b72dbdac461",
+      "b": ""
+    },
+    "objGuid": "Guid(1677678860213976972, 1257393983719147682)",
+    "extraType": "Entity",
+    "name": "Critter Sticker Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "dcaf4ff0-53dd-d50b-9a58-229de77bb7a4",
+      "b": ""
+    },
+    "objGuid": "Guid(9603941085394786174, 18313687378269432738)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "35a0940e-32c7-32f0-e766-0db676ba415d",
+      "b": ""
+    },
+    "objGuid": "Guid(12124410497354674828, 8719458651112609409)",
+    "extraType": "Entity",
+    "name": "TIP: TRY EACH OF BELOW EXAMPLES",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "9ea72180-d67a-d038-0500-d9d25ee2b1d6",
+      "b": ""
+    },
+    "objGuid": "Guid(15944715286130498448, 3112062058893505693)",
+    "extraType": "Entity",
+    "name": "Left Cheek Blush Sticker [REPLACE ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "888e27d6-ab64-3e20-305b-ea5e51f261aa",
+      "b": ""
+    },
+    "objGuid": "Guid(13928021351238049012, 15673023834991713464)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "ef4b642a-a722-d6e4-c91b-6826a5f24989",
+      "b": ""
+    },
+    "objGuid": "Guid(5495882806653303327, 14457234558849714599)",
+    "extraType": "LookAt",
+    "name": "LookAt",
+    "rttiType": "LookAt",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "86eb0ec7-3349-01bc-76a3-88a814214833",
+      "b": ""
+    },
+    "objGuid": "Guid(14719531156521071001, 13638363564106855585)",
+    "extraType": "Entity",
+    "name": "Right Cheek Blush Sticker [REPLACE ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "6ea22378-753d-94b3-ea23-e197f8492364",
+      "b": ""
+    },
+    "objGuid": "Guid(4631189394625875090, 12751590473648749734)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "8d0745ee-95a4-33ba-b0cf-686ddcb172d2",
+      "b": ""
+    },
+    "objGuid": "Guid(14574712822630299137, 11231284264078802314)",
+    "extraType": "LookAt",
+    "name": "LookAt",
+    "rttiType": "LookAt",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "d56b922c-496a-fa71-f479-a498c26336dc",
+      "b": ""
+    },
+    "objGuid": "Guid(17027345979323549449, 7302723360969449106)",
+    "extraType": "Entity",
+    "name": "Bunny Hat Sticker [REPLACE ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "8eb93b54-41d9-27e8-72b1-894828b7550a",
+      "b": ""
+    },
+    "objGuid": "Guid(4345185152277318918, 16897762363520277162)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "06e8c1ff-338c-b782-7bec-5670b622cb33",
+      "b": ""
+    },
+    "objGuid": "Guid(17820583986075264651, 8198925879073383590)",
+    "extraType": "LookAt",
+    "name": "LookAt",
+    "rttiType": "LookAt",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "f1e4fb6a-2a48-ceb3-e78b-614180fe027b",
+      "b": ""
+    },
+    "objGuid": "Guid(6503972318117133883, 5058044264175478462)",
+    "extraType": "Entity",
+    "name": "Animated Bunny Ear Sticker [REPLACE ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "767acf79-f471-63d9-5612-0b6f59c10d00",
+      "b": ""
+    },
+    "objGuid": "Guid(9961973462060988902, 7245904007266106293)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "texture": "26717c3e-363c-1740-73ef-16b56f53ef6b"
+  },
+  {
+    "guid": {
+      "a": "d1ad3047-e2c9-c2b5-8bc3-84e7ee54fbc3",
+      "b": ""
+    },
+    "objGuid": "Guid(7587006994132123045, 9019257143054935978)",
+    "extraType": "LookAt",
+    "name": "LookAt",
+    "rttiType": "LookAt",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "5545db70-0833-6142-7217-99d3342f5917",
+      "b": ""
+    },
+    "objGuid": "Guid(2324133525321084309, 15496535843599463580)",
+    "extraType": "Entity",
+    "name": "Left Cheek Animated Blush Sticker [REPLACE ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "7447e2c4-3b1d-02bc-c240-417450a93e1a",
+      "b": ""
+    },
+    "objGuid": "Guid(9605261519815693081, 696280704927924153)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "texture": "9a1bfc59-c2b2-52b6-a4eb-82d52a772510"
+  },
+  {
+    "guid": {
+      "a": "d860df51-fd5b-5ebc-c360-de7e13ab9ec0",
+      "b": ""
+    },
+    "objGuid": "Guid(4773895800046023434, 3692874719764244130)",
+    "extraType": "LookAt",
+    "name": "LookAt",
+    "rttiType": "LookAt",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "270e764a-c18e-c2e2-0993-8843f8efa40b",
+      "b": ""
+    },
+    "objGuid": "Guid(10325354530925241030, 17805691976118992552)",
+    "extraType": "Entity",
+    "name": "Right Cheek Animated Blush Sticker [REPLACE ME]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "f92779a5-5861-821b-e62c-482771a26049",
+      "b": ""
+    },
+    "objGuid": "Guid(670751114906963273, 14961110051022537655)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "texture": "9a1bfc59-c2b2-52b6-a4eb-82d52a772510"
+  },
+  {
+    "guid": {
+      "a": "3971576f-72fb-2e56-139e-4943d96b6930",
+      "b": ""
+    },
+    "objGuid": "Guid(6002604726436373875, 14387915988813277621)",
+    "extraType": "LookAt",
+    "name": "LookAt",
+    "rttiType": "LookAt",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "47c05d15-df70-d193-d9f5-4ac2f05059e1",
+      "b": ""
+    },
+    "objGuid": "Guid(2181074995442454512, 13754935422106916240)",
+    "extraType": "Entity",
+    "name": "Face Mask",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_face_mask"
+  },
+  {
+    "guid": {
+      "a": "cc3fceef-8da0-8de8-0331-8125a83434c5",
+      "b": ""
+    },
+    "objGuid": "Guid(18034952018619101689, 4358874472880889990)",
+    "extraType": "MeshRenderer",
+    "name": "MeshRenderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "e314cf16-477a-f114-64d4-b8b3fc999f27",
+      "b": ""
+    },
+    "objGuid": "Guid(956368602468772805, 2407812261099791282)",
+    "extraType": "FaceMaskTT",
+    "name": "Face Mask",
+    "rttiType": "EffectFaceMakeupFaceU",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "regionType": 0,
+    "makeupTexture": "edaf1f60-3d5f-5c99-ecc9-6a4d977d436c",
+    "intensity": 0.699999988079071,
+    "blendMode": 0,
+    "opacityEnable": true,
+    "opacityTexture": "00000000-0000-0000-0000-0000000000ed",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "maskTexture": "00000000-0000-0000-0000-00000000001e",
+    "opacityMaskTexture": "00000000-0000-0000-0000-00000000001e"
+  },
+  {
+    "guid": {
+      "a": "cee787dc-6628-af5b-8cea-027348c0d23c",
+      "b": ""
+    },
+    "objGuid": "Guid(885104783672643299, 6534870083599171512)",
+    "extraType": "Entity",
+    "name": "EyeShadow",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_face_mask"
+  },
+  {
+    "guid": {
+      "a": "4b1cd53d-674b-d4e4-e0c1-ee1b2ec396dd",
+      "b": ""
+    },
+    "objGuid": "Guid(2757138653055293706, 5085108762606806191)",
+    "extraType": "MeshRenderer",
+    "name": "MeshRenderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "907cf1a0-afdb-18f9-bf14-f72d83c0c954",
+      "b": ""
+    },
+    "objGuid": "Guid(13712255453288833990, 16758718698947646911)",
+    "extraType": "FaceMaskTT",
+    "name": "Face Mask",
+    "rttiType": "EffectFaceMakeupFaceU",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "regionType": 1,
+    "makeupTexture": "ba0e1b41-b1d4-7482-592d-74072cc35d82",
+    "intensity": 0.800000011920929,
+    "blendMode": 1,
+    "opacityEnable": false,
+    "opacityTexture": "00000000-0000-0000-0000-0000000000ef",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "maskTexture": "00000000-0000-0000-0000-00000000001e",
+    "opacityMaskTexture": "00000000-0000-0000-0000-0000000000fb"
+  },
+  {
+    "guid": {
+      "a": "1822d27a-1b8f-812a-c85f-02a71fc6f161",
+      "b": ""
+    },
+    "objGuid": "Guid(5713711704934795751, 4935332773222978745)",
+    "extraType": "Entity",
+    "name": "Eye Color",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_face_mask"
+  },
+  {
+    "guid": {
+      "a": "435860c2-c3d9-1753-1aba-b98150abaa92",
+      "b": ""
+    },
+    "objGuid": "Guid(12846399727297989542, 8117650844975222688)",
+    "extraType": "MeshRenderer",
+    "name": "MeshRenderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "04d29697-1a99-4b2d-b463-e6672e7703f1",
+      "b": ""
+    },
+    "objGuid": "Guid(2829630374961128853, 16162343807650845341)",
+    "extraType": "EyeColorV2",
+    "name": "EyeColorV2",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "39f00527-cb48-6d66-0a7f-a36295f7ef16",
+      "b": ""
+    },
+    "objGuid": "Guid(1967732984354452261, 16868588363617870999)",
+    "extraType": "Entity",
+    "name": "Lip Effect",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_face_mask"
+  },
+  {
+    "guid": {
+      "a": "29e84ddf-5de2-482f-c20e-30fd6aa9c2a8",
+      "b": ""
+    },
+    "objGuid": "Guid(15006977403139320711, 9169075130176644011)",
+    "extraType": "MeshRenderer",
+    "name": "MeshRenderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "66685bfa-fe1b-62e4-b64c-7636345f707c",
+      "b": ""
+    },
+    "objGuid": "Guid(6938465020901439305, 7605261565436499106)",
+    "extraType": "FaceMaskTT",
+    "name": "Face Mask",
+    "rttiType": "EffectFaceMakeupFaceU",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "regionType": 3,
+    "makeupTexture": "4b32f278-0513-b516-77d6-f6f514662fb3",
+    "intensity": 0.800000011920929,
+    "blendMode": 4,
+    "opacityEnable": false,
+    "opacityTexture": "00000000-0000-0000-0000-0000000000d4",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "maskTexture": "00000000-0000-0000-0000-0000000000af",
+    "opacityMaskTexture": "00000000-0000-0000-0000-0000000000fc"
+  },
+  {
+    "guid": {
+      "a": "e68cb459-0e7b-2fe9-8a03-2d4f5ae028bf",
+      "b": ""
+    },
+    "objGuid": "Guid(18105965583155728760, 12764684610915064737)",
+    "extraType": "Entity",
+    "name": "3D Face",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_face_mask"
+  },
+  {
+    "guid": {
+      "a": "e4ea17f4-85dc-5eef-8af4-4b129c78683f",
+      "b": ""
+    },
+    "objGuid": "Guid(3550764793802417516, 3910147791479771324)",
+    "extraType": "MeshRenderer",
+    "name": "MeshRenderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false,
+    "mesh": "bee7283c-facc-30a4-3bb1-b6494e8f9d21"
+  },
+  {
+    "guid": {
+      "a": "4c66bbd5-3680-2d5d-5c15-4b1dcd4db81f",
+      "b": ""
+    },
+    "objGuid": "Guid(3841085312083971875, 2927316845914060172)",
+    "extraType": "FaceShapeV2",
+    "name": "3D Face Binding",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "a8fb191e-f464-4366-a743-b562c3f60f9a",
+      "b": ""
+    },
+    "objGuid": "Guid(5206452960492068604, 11775341658603079575)",
+    "extraType": "Entity",
+    "name": "1. Enable \"Example 1: Static Accessory\" to try",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "cca8b499-16fd-fb5e-770b-38f0ceadb207",
+      "b": ""
+    },
+    "objGuid": "Guid(4558564656439174670, 11762271648837264278)",
+    "extraType": "Entity",
+    "name": "3. Import customize texture or sequence to Assets",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "50a77b5d-b135-a244-17df-3e027a91417f",
+      "b": ""
+    },
+    "objGuid": "Guid(884336534955025775, 15517842463216161965)",
+    "extraType": "Entity",
+    "name": "2. Enable \"Example 2: Animate Accessory\" to try",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "e578b7af-6f73-4ab5-3a73-c8ce0607a251",
+      "b": ""
+    },
+    "objGuid": "Guid(4488168829505204477, 12593920704072622258)",
+    "extraType": "Entity",
+    "name": "4. Apply the texture to any sticker's Image component",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "68bfdaae-c52a-90d8-9849-936750daae62",
+      "b": ""
+    },
+    "objGuid": "Guid(4960207134287200745, 850037878289573265)",
+    "extraType": "Entity",
+    "name": "Environment Light",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "c6f83f22-fbd6-23d6-1be5-f99927745e69",
+      "b": ""
+    },
+    "objGuid": "Guid(5313870509979670994, 2859848627898891650)",
+    "extraType": "EnvironmentLighting",
+    "name": "EnvironmentLighting",
+    "rttiType": "Envmap",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  }
+]

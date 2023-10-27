@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "9a1bfc59-c2b2-52b6-a4eb-82d52a772510",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "Heart_TexSequence",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

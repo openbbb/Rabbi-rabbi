@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "2c22fd3d-1d98-73a6-4485-9fa30d12d188",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "BunnyHatAssets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

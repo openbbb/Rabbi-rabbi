@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "bee7283c-facc-30a4-3bb1-b6494e8f9d21",
+      "b": ""
+    },
+    "extraType": "JSAssetHead3D",
+    "name": "3DFace_Mesh",
+    "expandInPanel": false,
+    "fillEyes": true,
+    "fillMouth": true,
+    "faceIndex": 0,
+    "objGuid": "",
+    "rttiType": "Mesh",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

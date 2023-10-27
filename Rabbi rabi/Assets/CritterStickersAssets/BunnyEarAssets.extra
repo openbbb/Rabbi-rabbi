@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "21f2ee74-a663-e113-4102-74d01d167fcf",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "BunnyEarAssets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

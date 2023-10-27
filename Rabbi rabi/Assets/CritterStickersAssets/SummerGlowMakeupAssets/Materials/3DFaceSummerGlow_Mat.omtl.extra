@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "356f3fa0-8b94-31d6-4e85-651067546883",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "3DFaceSummerGlow_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5039446240906794410, 4326464125490042263)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "06db8ec5-2397-2e8d-1696-c3a69f8defb9"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ]
+  }
+]
